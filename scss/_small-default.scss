@@ -64,12 +64,27 @@ nav{
     }
 }//end of nav
 
+/********** Main ********///
+
+main {
+    h1{
+        font-size : 2rem;
+        margin : 1rem 0 0 $gutter;
+        color: $primaryColor;
+    }
+}// end main
+
+
 
 .clearfix:after {
 content: "";
 display: table;
 clear: both;
 }
+
+
+
+/**** Main *****/
 
 
 /******** footer ******/
